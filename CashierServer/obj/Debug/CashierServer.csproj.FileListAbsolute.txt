@@ -1,0 +1,10 @@
+G:\vs\CashierServer\CashierServer\bin\Debug\CashierServer.exe.config
+D:\oldone\cashier\CashierServer\CashierServer\bin\Debug\CashierServer.exe.config
+D:\oldone\cashier\CashierServer\CashierServer\obj\Debug\CashierServer.csprojResolveAssemblyReference.cache
+D:\oldone\cashier\CashierServer\CashierServer\obj\Debug\CashierServer.Forms.Import.ImportForm.resources
+D:\oldone\cashier\CashierServer\CashierServer\obj\Debug\CashierServer.Forms.LoginForm.resources
+D:\oldone\cashier\CashierServer\CashierServer\obj\Debug\CashierServer.MainForm.resources
+D:\oldone\cashier\CashierServer\CashierServer\obj\Debug\CashierServer.Forms.Tips.UpdateTipForm.resources
+D:\oldone\cashier\CashierServer\CashierServer\obj\Debug\CashierServer.Properties.Resources.resources
+D:\oldone\cashier\CashierServer\CashierServer\obj\Debug\CashierServer.csproj.GenerateResource.Cache
+D:\oldone\cashier\CashierServer\CashierServer\obj\Debug\CashierServer.exe.licenses

@@ -9,3 +9,6 @@ This project only has the server part,we also need the client part and the cashi
 
 This project now is only available for the single cybercaffe,if you want use it in a chain of cybercoffes,sorry,you have to modify yourself,mybe in the futuer,i will provide this function if i have enough time.But trust me.
 
+
+But recently,i have to prepare for the ielts exam and i am still at work,so i really have little time to maintain this project.
+In the future,if i have a good score in the exam of ielts and get the Canada study visa,maybe i will allocate more time on this project.

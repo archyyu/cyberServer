@@ -7,7 +7,7 @@ This project also have a tiny httpServer,but only with limit functions,in the fu
 
 This project only has the server part,we also need the client part and the cashier part to make it useful to the cybercoffee.In the future if i have the time,i will do it.
 
-This project now is only available for the single cybercaffe,if you want use it in a chain of cybercoffes,sorry,you have to modify yourself,mybe in the futuer,i will provide this function if i have enough time.But trust me.
+This project now is only available for the single cybercaffe,if you want use it in a chain of cybercoffes,sorry,you have to modify yourself,mybe in the futuer,i will provide this function if i have enough time.But donot trust me.
 
 
 But recently,i have to prepare for the ielts exam and i am still at work,so i really have little time to maintain this project.
